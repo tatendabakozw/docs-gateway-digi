@@ -1,0 +1,11 @@
+.guides-setion-container {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  gap: 8px; /* Equivalent to space-y-2 in Tailwind CSS */
+}
